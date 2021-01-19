@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\bin\Debug\netcoreapp3.1\Tasl01_Ranking.exe
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\bin\Debug\netcoreapp3.1\Tasl01_Ranking.deps.json
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\bin\Debug\netcoreapp3.1\Tasl01_Ranking.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\bin\Debug\netcoreapp3.1\Tasl01_Ranking.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\bin\Debug\netcoreapp3.1\Tasl01_Ranking.dll
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\bin\Debug\netcoreapp3.1\Tasl01_Ranking.pdb
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.dll
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.pdb
+C:\Users\Kiril\source\repos\07_Exercise_More\07_Exercise_More\obj\Debug\netcoreapp3.1\Tasl01_Ranking.genruntimeconfig.cache
